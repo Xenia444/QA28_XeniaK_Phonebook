@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import java.util.List;
 
 
-public class HomeTest_CW_08_07 {
+public class HomeTest_CW_05_07 {
 
     WebDriver wd;
 
