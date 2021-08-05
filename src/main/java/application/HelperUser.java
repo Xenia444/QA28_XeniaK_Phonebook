@@ -16,6 +16,7 @@ public class HelperUser extends HelperBase {
     public void fillLoginForm(String email, String password) {
         type(By.xpath("//input[@placeholder='Email']"), email);
         type(By.xpath("//input[@placeholder='Password']"), password);
+        logger.info("Login data:\nEmail: " + email + "\nPassword: " + password);
     }
 
     public void submitLogin() {

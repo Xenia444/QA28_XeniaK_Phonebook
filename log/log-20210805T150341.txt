@@ -1,0 +1,8 @@
+15:03:41 INFO  application.Application - Start browser CHROME
+15:03:42 INFO  application.Application - Navigate to: https://contacts-app.tobbymarshall815.vercel.app/about
+15:03:42 INFO  projectTests.TestBase - Start method: smokeTest
+15:03:42 INFO  projectTests.TestBase - Test passed
+15:03:42 INFO  projectTests.TestBase - End of method: smokeTest
+15:03:42 INFO  projectTests.TestBase - Start method: quickTest
+15:03:42 INFO  projectTests.TestBase - Test passed
+15:03:42 INFO  projectTests.TestBase - End of method: quickTest

@@ -21,6 +21,7 @@ public class TestLogin extends TestBase {
 
         boolean SingOutIsDisplayed = app.helperUser().SignOutButton();
         Assert.assertTrue(SingOutIsDisplayed);
+        logger.info("Test passed");
     }
 
     @Test
@@ -32,6 +33,7 @@ public class TestLogin extends TestBase {
         app.helperUser().acceptAlert();
         boolean SingOutIsNotDisplayed = app.helperUser().isLogged();
         Assert.assertTrue(SingOutIsNotDisplayed);
+        logger.info("Test passed");
     }
 
 }

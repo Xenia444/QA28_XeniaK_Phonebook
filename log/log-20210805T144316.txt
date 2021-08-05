@@ -1,4 +1,0 @@
-14:43:16 INFO  application.Application - Start browser CHROME
-14:43:17 INFO  application.Application - Navigate to: https://contacts-app.tobbymarshall815.vercel.app/about
-14:43:17 INFO  projectTests.TestBase - Start method: quickTest
-14:43:17 INFO  projectTests.TestBase - End of method: quickTest
