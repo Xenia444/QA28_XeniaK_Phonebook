@@ -33,4 +33,8 @@ public class HelperUser extends HelperBase {
     public void logOut() {
         click(By.xpath("//button[.='Sign Out']"));
     }
+
+    public void acceptAlert() {
+        wd.switchTo().alert().accept();
+    }
 }

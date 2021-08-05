@@ -24,4 +24,12 @@ public class HelperBase {
             element.sendKeys(text);
         }
     }
+
+    public void pause(int millise) {
+        try {
+            Thread.sleep(millise);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
 }

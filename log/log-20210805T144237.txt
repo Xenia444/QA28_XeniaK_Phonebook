@@ -1,0 +1,4 @@
+14:42:38 INFO  application.Application - Start browser CHROME
+14:42:39 INFO  application.Application - Navigate to: https://contacts-app.tobbymarshall815.vercel.app/about
+14:42:39 INFO  projectTests.TestBase - Start method: loginTestPositive
+14:42:40 INFO  projectTests.TestBase - End of method: loginTestPositive
