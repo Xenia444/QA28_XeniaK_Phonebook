@@ -1,8 +1,0 @@
-15:00:38 INFO  application.Application - Start browser CHROME
-15:00:39 INFO  application.Application - Navigate to: https://contacts-app.tobbymarshall815.vercel.app/about
-15:00:39 INFO  projectTests.TestBase - Start method: loginTestPositive
-15:00:40 INFO  application.HelperBase - Login data:
-Email: sam@gmail.com
-Password: Sam1234$
-15:00:40 INFO  projectTests.TestBase - Test passed
-15:00:40 INFO  projectTests.TestBase - End of method: loginTestPositive

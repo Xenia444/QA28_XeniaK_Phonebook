@@ -1,10 +1,12 @@
 package application;
 //Lesson 30
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import com.google.common.io.Files;
+import org.openqa.selenium.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import java.io.File;
+import java.io.IOException;
 
 public class HelperBase {
 
@@ -28,10 +30,27 @@ public class HelperBase {
         }
     }
 
+    void clear(By locator) {
+        String text = wd.findElement(locator).getText();
+        if(text != null) {
+            wd.findElement(locator).clear();
+        }
+    }
+
     public void pause(int millise) {
         try {
             Thread.sleep(millise);
         } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void  takeScreenshot(String pathFile) {
+        File tmp = ((TakesScreenshot) wd).getScreenshotAs(OutputType.FILE);
+        File screenshot = new File(pathFile);
+        try {
+            Files.copy(tmp,screenshot);
+        } catch (IOException e) {
             e.printStackTrace();
         }
     }

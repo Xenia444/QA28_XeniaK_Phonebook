@@ -1,0 +1,280 @@
+17:52:40 INFO  application.Application - Start browser CHROME
+17:52:41 INFO  application.Application - Navigate to: https://contacts-app.tobbymarshall815.vercel.app/about
+17:52:41 INFO  projectTests.TestBase - Start method: negativeAddContactTestBaseCSV
+17:52:41 INFO  projectTests.TestBase - Test Start with Data -->[Contact(name=, lastName=Smith, email=ann1@mail.com, phone=787982566, address=Holon, description=friend)]
+17:52:41 INFO  projectTests.TestBase - ==================================================================
+17:52:41 INFO  application.MyListener - Start find element by: By.xpath: //a[.='LOGIN'].
+17:52:41 INFO  application.MyListener - The element was By.xpath: //a[.='LOGIN']found by.
+17:52:41 INFO  application.MyListener - Start find element by: By.xpath: //a[.='LOGIN'].
+17:52:41 INFO  application.MyListener - The element was By.xpath: //a[.='LOGIN']found by.
+17:52:41 INFO  application.MyListener - Start find element by: By.xpath: //input[1].
+17:52:41 INFO  application.MyListener - The element was By.xpath: //input[1]found by.
+17:52:41 INFO  application.MyListener - Start find element by: By.xpath: //input[2].
+17:52:41 INFO  application.MyListener - The element was By.xpath: //input[2]found by.
+17:52:41 INFO  application.HelperBase - Login data:
+Email: sam@gmail.com
+Password: Sam1234$
+17:52:41 INFO  application.MyListener - Start find element by: By.xpath: //button[.=' Login'].
+17:52:41 INFO  application.MyListener - The element was By.xpath: //button[.=' Login']found by.
+17:52:42 INFO  application.MyListener - Start find element by: By.xpath: //a[.='ADD'].
+17:52:42 INFO  application.MyListener - The element was By.xpath: //a[.='ADD']found by.
+17:52:42 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:52:42 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:52:42 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:52:42 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:52:42 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:52:42 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:52:43 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:52:43 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:52:43 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Address'].
+17:52:43 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Address']found by.
+17:52:43 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='description'].
+17:52:43 INFO  application.MyListener - The element was By.cssSelector: [placeholder='description']found by.
+17:52:43 INFO  application.MyListener - Start find element by: By.xpath: //button/b.
+17:52:43 INFO  application.MyListener - The element was By.xpath: //button/bfound by.
+17:52:43 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:52:43 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:52:43 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:52:43 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:52:43 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:52:43 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:52:43 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:52:43 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:52:43 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:52:43 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:52:43 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:52:43 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:52:43 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:52:43 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:52:43 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:52:43 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:52:43 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:52:43 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:52:43 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:52:43 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:52:43 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:52:43 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:52:43 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:52:43 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:52:43 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Address'].
+17:52:43 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Address']found by.
+17:52:43 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Address'].
+17:52:43 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Address']found by.
+17:52:43 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Address'].
+17:52:43 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Address']found by.
+17:52:43 INFO  projectTests.TestBase - End of method: negativeAddContactTestBaseCSV
+17:52:43 INFO  projectTests.TestBase - Start method: negativeAddContactTestBaseCSV
+17:52:43 INFO  projectTests.TestBase - Test Start with Data -->[Contact(name=Ann, lastName=, email=ann2@mail.com, phone=254574556, address=Holon, description=friend)]
+17:52:43 INFO  projectTests.TestBase - ==================================================================
+17:52:43 INFO  application.MyListener - Start find element by: By.xpath: //a[.='LOGIN'].
+17:52:53 INFO  application.MyListener - The element was By.xpath: //a[.='LOGIN']found by.
+17:52:53 INFO  application.MyListener - Start find element by: By.xpath: //a[.='ADD'].
+17:52:53 INFO  application.MyListener - The element was By.xpath: //a[.='ADD']found by.
+17:52:53 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:52:53 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:52:53 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:52:53 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:52:53 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:52:53 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:52:53 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:52:53 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:52:53 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Address'].
+17:52:53 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Address']found by.
+17:52:54 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='description'].
+17:52:54 INFO  application.MyListener - The element was By.cssSelector: [placeholder='description']found by.
+17:52:54 INFO  application.MyListener - Start find element by: By.xpath: //button/b.
+17:52:54 INFO  application.MyListener - The element was By.xpath: //button/bfound by.
+17:52:54 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:52:54 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:52:54 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:52:54 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:52:54 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:52:54 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:52:54 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:52:54 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:52:54 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:52:54 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:52:54 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:52:54 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:52:54 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:52:54 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:52:54 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:52:54 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:52:54 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:52:54 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:52:54 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:52:54 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:52:54 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:52:54 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:52:54 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:52:54 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:52:54 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Address'].
+17:52:54 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Address']found by.
+17:52:54 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Address'].
+17:52:54 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Address']found by.
+17:52:54 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Address'].
+17:52:54 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Address']found by.
+17:52:54 INFO  projectTests.TestBase - End of method: negativeAddContactTestBaseCSV
+17:52:54 INFO  projectTests.TestBase - Start method: negativeAddContactTestBaseCSV
+17:52:54 INFO  projectTests.TestBase - Test Start with Data -->[Contact(name=Ann, lastName=Smith, email=ann3@mail.com, phone=, address=Holon, description=friend)]
+17:52:54 INFO  projectTests.TestBase - ==================================================================
+17:52:54 INFO  application.MyListener - Start find element by: By.xpath: //a[.='LOGIN'].
+17:53:04 INFO  application.MyListener - The element was By.xpath: //a[.='LOGIN']found by.
+17:53:04 INFO  application.MyListener - Start find element by: By.xpath: //a[.='ADD'].
+17:53:04 INFO  application.MyListener - The element was By.xpath: //a[.='ADD']found by.
+17:53:04 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:53:04 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:53:04 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:53:04 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:53:04 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:53:04 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:53:04 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:53:04 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:53:04 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Address'].
+17:53:04 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Address']found by.
+17:53:04 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='description'].
+17:53:04 INFO  application.MyListener - The element was By.cssSelector: [placeholder='description']found by.
+17:53:04 INFO  application.MyListener - Start find element by: By.xpath: //button/b.
+17:53:04 INFO  application.MyListener - The element was By.xpath: //button/bfound by.
+17:53:04 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:53:04 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:53:04 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:53:04 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:53:04 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:53:04 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:53:04 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:53:04 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:53:04 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:53:04 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:53:04 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:53:04 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:53:04 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:53:04 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:53:04 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:53:04 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:53:04 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:53:04 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:53:05 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:53:05 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:53:05 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:53:05 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:53:05 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:53:05 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:53:05 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Address'].
+17:53:05 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Address']found by.
+17:53:05 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Address'].
+17:53:05 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Address']found by.
+17:53:05 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Address'].
+17:53:05 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Address']found by.
+17:53:05 INFO  projectTests.TestBase - End of method: negativeAddContactTestBaseCSV
+17:53:05 INFO  projectTests.TestBase - Start method: negativeAddContactTestBaseCSV
+17:53:05 INFO  projectTests.TestBase - Test Start with Data -->[Contact(name=Ann, lastName=Smith, email=, phone=231573566, address=Holon, description=friend)]
+17:53:05 INFO  projectTests.TestBase - ==================================================================
+17:53:05 INFO  application.MyListener - Start find element by: By.xpath: //a[.='LOGIN'].
+17:53:15 INFO  application.MyListener - The element was By.xpath: //a[.='LOGIN']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.xpath: //a[.='ADD'].
+17:53:15 INFO  application.MyListener - The element was By.xpath: //a[.='ADD']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Address'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Address']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='description'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='description']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.xpath: //button/b.
+17:53:15 INFO  application.MyListener - The element was By.xpath: //button/bfound by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Address'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Address']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Address'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Address']found by.
+17:53:15 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Address'].
+17:53:15 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Address']found by.
+17:53:15 INFO  projectTests.TestBase - End of method: negativeAddContactTestBaseCSV
+17:53:15 INFO  projectTests.TestBase - Start method: negativeAddContactTestBaseCSV
+17:53:15 INFO  projectTests.TestBase - Test Start with Data -->[Contact(name=Ann, lastName=, email=787982566, phone=Smith, address=ann1@mail.com, description=friend)]
+17:53:15 INFO  projectTests.TestBase - ==================================================================
+17:53:15 INFO  application.MyListener - Start find element by: By.xpath: //a[.='LOGIN'].
+17:53:25 INFO  application.MyListener - The element was By.xpath: //a[.='LOGIN']found by.
+17:53:25 INFO  application.MyListener - Start find element by: By.xpath: //a[.='ADD'].
+17:53:25 INFO  application.MyListener - The element was By.xpath: //a[.='ADD']found by.
+17:53:25 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:53:25 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:53:25 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:53:25 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:53:26 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:53:26 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:53:26 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:53:26 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:53:26 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Address'].
+17:53:26 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Address']found by.
+17:53:26 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='description'].
+17:53:26 INFO  application.MyListener - The element was By.cssSelector: [placeholder='description']found by.
+17:53:26 INFO  application.MyListener - Start find element by: By.xpath: //button/b.
+17:53:26 INFO  application.MyListener - The element was By.xpath: //button/bfound by.
+17:53:26 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:53:26 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:53:26 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:53:26 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:53:26 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Name'].
+17:53:26 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Name']found by.
+17:53:26 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:53:26 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:53:26 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:53:26 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:53:26 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Last Name'].
+17:53:26 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Last Name']found by.
+17:53:26 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:53:26 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:53:26 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:53:26 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:53:26 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Phone'].
+17:53:26 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Phone']found by.
+17:53:26 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:53:26 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:53:26 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:53:26 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:53:26 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='email'].
+17:53:26 INFO  application.MyListener - The element was By.cssSelector: [placeholder='email']found by.
+17:53:26 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Address'].
+17:53:26 INFO  application.MyListener - The element was By.cssSelector: [placeholder='Address']found by.
+17:53:26 INFO  application.MyListener - Start find element by: By.cssSelector: [placeholder='Address'].
+17:53:36 INFO  application.MyListener - Screen: src/test/screenshots/screen3216.png
+17:53:36 INFO  application.MyListener - no such element: Unable to locate element: {"method":"css selector","selector":"[placeholder='Address']"}
+  (Session info: chrome=91.0.4472.114)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'fedora', ip: '127.0.0.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.12.15-300.fc34.x86_64', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 91.0.4472.114 (4bb19460e8d8..., userDataDir: /tmp/.org.chromium.Chromium...}, goog:chromeOptions: {debuggerAddress: localhost:44977}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a6f750764a432aad59b24e741203bf7
+*** Element info: {Using=css selector, value=[placeholder='Address']}
+17:53:36 INFO  projectTests.TestBase - End of method: negativeAddContactTestBaseCSV

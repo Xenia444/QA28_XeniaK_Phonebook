@@ -7,6 +7,7 @@ import org.slf4j.LoggerFactory;
 import org.testng.annotations.*;
 
 import java.lang.reflect.Method;
+import java.util.Arrays;
 
 
 public class TestBase {
@@ -24,12 +25,16 @@ public class TestBase {
     }
 
     @BeforeMethod(alwaysRun = true)
-    public void startLogger(Method m) {
+    public void startLogger(Method m, Object[] p) {
+
         logger.info("Start method: " + m.getName());
+        logger.info("Test Start with Data -->"+ Arrays.asList(p) );
+        logger.info( "==================================================================");
     }
 
     @AfterMethod(alwaysRun = true)
     public void endOfLogger(Method m) {
+
         logger.info("End of method: " + m.getName());
     }
 }

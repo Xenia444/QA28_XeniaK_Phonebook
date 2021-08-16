@@ -1,5 +1,6 @@
 package application;
 //Lesson 30
+import models.User;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
@@ -19,6 +20,13 @@ public class HelperUser extends HelperBase {
         logger.info("Login data:\nEmail: " + email + "\nPassword: " + password);
     }
 
+    public void fillLoginRegForm(User user) {
+        type(By.xpath("//input[1]"), user.getEmail());
+        type(By.xpath("//input[2]"), user.getPassword());
+        logger.info("Login data:\nEmail: " + user.getEmail() + "\nPassword: " + user.getPassword());
+    }
+
+
     public void submitLogin() {
         click(By.xpath("//button[.=' Login']"));
     }
@@ -37,5 +45,12 @@ public class HelperUser extends HelperBase {
 
     public void acceptAlert() {
         wd.switchTo().alert().accept();
+    }
+
+    public void login(User user) {
+        openLoginFrom();
+        fillLoginRegForm(user);
+        submitLogin();
+        pause(1000);
     }
 }
