@@ -3,11 +3,11 @@
 
 <suite name="Reg" verbose="1" >
 
-    <groups>
-        <run>
-            <include name="web"/>
-        </run>
-    </groups>
+<!--    <groups>-->
+<!--        <run>-->
+<!--            <include name="web"/>-->
+<!--        </run>-->
+<!--    </groups>-->
 
     <test name="Reg">
         <classes>
