@@ -74,7 +74,7 @@ public class TestLogin extends TestBase {
     @Test(dataProvider = "dataFileCSV", dataProviderClass = MyDataProvider.class)
     public void loginTestDP(User user) {
         app.helperUser().openLoginFrom();
-        app.helperUser().pause(1500);
+        app.helperUser().pause(2000);
         app.helperUser().fillLoginRegForm(user);
         app.helperUser().submitLogin();
 
