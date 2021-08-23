@@ -1,0 +1,17 @@
+application/HelperBase.java
+ application.HelperBase
+models/Contact.java
+ models.Contact
+ models.Contact$ContactBuilder
+models/User.java
+ models.User
+application/MyDataProvider.java
+ application.MyDataProvider
+application/MyListener.java
+ application.MyListener
+application/Application.java
+ application.Application
+application/HelperUser.java
+ application.HelperUser
+application/ContactHelper.java
+ application.ContactHelper

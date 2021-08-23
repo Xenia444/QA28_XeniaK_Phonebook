@@ -1,0 +1,19 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Reg" verbose="1" >
+
+<!--    <groups>-->
+<!--        <run>-->
+<!--            <include name="web"/>-->
+<!--        </run>-->
+<!--    </groups>-->
+
+    <test name="Reg">
+        <classes>
+            <class name="projectTests.SmokeTest"/>
+            <class name="projectTests.QuickTest"/>
+            <class name="projectTests.TestLogin"/>
+        </classes>
+    </test>
+</suite>

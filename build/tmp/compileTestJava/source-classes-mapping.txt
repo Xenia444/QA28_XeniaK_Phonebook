@@ -1,0 +1,22 @@
+firstTests/HomeTest_CW_05_07.java
+ firstTests.HomeTest_CW_05_07
+firstTests/HomeTest.java
+ firstTests.HomeTest
+projectTests/TestBase.java
+ projectTests.TestBase
+projectTests/TestLogin.java
+ projectTests.TestLogin
+projectTests/AddContactClass.java
+ projectTests.AddContactClass
+projectTests/QuickTest.java
+ projectTests.QuickTest
+projectTests/SmokeTest.java
+ projectTests.SmokeTest
+projectTests/DeleteContact.java
+ projectTests.DeleteContact
+hw_loginTest/HW_LoginTest.java
+ hw_loginTest.HW_LoginTest
+firstTests/HomeTest_cssSelector.java
+ firstTests.HomeTest_cssSelector
+hw_loginTest/TestBase.java
+ hw_loginTest.TestBase

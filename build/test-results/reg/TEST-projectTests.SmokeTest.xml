@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="projectTests.SmokeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-22T15:38:37" hostname="localhost.localdomain" time="0.001">
+  <properties/>
+  <testcase name="smokeTest" classname="projectTests.SmokeTest" time="0.001"/>
+  <system-out><![CDATA[18:38:37 INFO  projectTests.TestBase - Start method: smokeTest
+18:38:37 INFO  projectTests.TestBase - Test Start with Data -->[]
+18:38:37 INFO  projectTests.TestBase - ==================================================================
+Im Smoke Test 
+18:38:37 INFO  projectTests.TestBase - Test passed
+18:38:37 INFO  projectTests.TestBase - End of method: smokeTest
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
